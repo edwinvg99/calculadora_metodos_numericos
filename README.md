@@ -26,3 +26,5 @@ Para ejecutar este proyecto, es necesario contar con Python instalado junto con 
 Puedes instalarlas ejecutando:
 ```bash
 pip install numpy sympy
+```
+## Sigue las instrucciones en consola para elegir el método y proporcionar los valores requeridos.
